@@ -1,0 +1,14 @@
+E:\JobTests\CleverenceSoftJuniorTest\bin\Debug\net8.0\CleverenceSoftJuniorTest.exe
+E:\JobTests\CleverenceSoftJuniorTest\bin\Debug\net8.0\CleverenceSoftJuniorTest.deps.json
+E:\JobTests\CleverenceSoftJuniorTest\bin\Debug\net8.0\CleverenceSoftJuniorTest.runtimeconfig.json
+E:\JobTests\CleverenceSoftJuniorTest\bin\Debug\net8.0\CleverenceSoftJuniorTest.dll
+E:\JobTests\CleverenceSoftJuniorTest\bin\Debug\net8.0\CleverenceSoftJuniorTest.pdb
+E:\JobTests\CleverenceSoftJuniorTest\obj\Debug\net8.0\CleverenceSoftJuniorTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\JobTests\CleverenceSoftJuniorTest\obj\Debug\net8.0\CleverenceSoftJuniorTest.AssemblyInfoInputs.cache
+E:\JobTests\CleverenceSoftJuniorTest\obj\Debug\net8.0\CleverenceSoftJuniorTest.AssemblyInfo.cs
+E:\JobTests\CleverenceSoftJuniorTest\obj\Debug\net8.0\CleverenceSoftJuniorTest.csproj.CoreCompileInputs.cache
+E:\JobTests\CleverenceSoftJuniorTest\obj\Debug\net8.0\CleverenceSoftJuniorTest.dll
+E:\JobTests\CleverenceSoftJuniorTest\obj\Debug\net8.0\refint\CleverenceSoftJuniorTest.dll
+E:\JobTests\CleverenceSoftJuniorTest\obj\Debug\net8.0\CleverenceSoftJuniorTest.pdb
+E:\JobTests\CleverenceSoftJuniorTest\obj\Debug\net8.0\CleverenceSoftJuniorTest.genruntimeconfig.cache
+E:\JobTests\CleverenceSoftJuniorTest\obj\Debug\net8.0\ref\CleverenceSoftJuniorTest.dll

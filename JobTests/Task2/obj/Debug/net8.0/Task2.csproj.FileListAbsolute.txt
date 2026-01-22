@@ -1,0 +1,14 @@
+E:\JobTests\Task2\bin\Debug\net8.0\Task2.exe
+E:\JobTests\Task2\bin\Debug\net8.0\Task2.deps.json
+E:\JobTests\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+E:\JobTests\Task2\bin\Debug\net8.0\Task2.dll
+E:\JobTests\Task2\bin\Debug\net8.0\Task2.pdb
+E:\JobTests\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\JobTests\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+E:\JobTests\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+E:\JobTests\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+E:\JobTests\Task2\obj\Debug\net8.0\Task2.dll
+E:\JobTests\Task2\obj\Debug\net8.0\refint\Task2.dll
+E:\JobTests\Task2\obj\Debug\net8.0\Task2.pdb
+E:\JobTests\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+E:\JobTests\Task2\obj\Debug\net8.0\ref\Task2.dll

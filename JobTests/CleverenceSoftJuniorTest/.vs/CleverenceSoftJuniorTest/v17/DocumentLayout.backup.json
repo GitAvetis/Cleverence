@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\JobTests\\CleverenceSoftJuniorTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD88FEF-1AB1-4C27-A417-038A234C2213}|..\\TestGroupParser\\TestGroupParser.csproj|e:\\jobtests\\testgroupparser\\unittest3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F432729-E708-4C68-A5C3-821780F2F80E}|..\\Task3\\Task3.csproj|e:\\jobtests\\task3\\task3prog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF832B02-E00D-43F5-AECA-3C29F48C2FFC}|..\\Task2\\Task2.csproj|e:\\jobtests\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF832B02-E00D-43F5-AECA-3C29F48C2FFC}|..\\Task2\\Task2.csproj|e:\\jobtests\\task2\\logmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF832B02-E00D-43F5-AECA-3C29F48C2FFC}|..\\Task2\\Task2.csproj|e:\\jobtests\\task2\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest3.cs",
+              "DocumentMoniker": "E:\\JobTests\\TestGroupParser\\UnitTest3.cs",
+              "RelativeDocumentMoniker": "..\\TestGroupParser\\UnitTest3.cs",
+              "ToolTip": "E:\\JobTests\\TestGroupParser\\UnitTest3.cs",
+              "RelativeToolTip": "..\\TestGroupParser\\UnitTest3.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv1EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:59:03.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task3Prog.cs",
+              "DocumentMoniker": "E:\\JobTests\\Task3\\Task3Prog.cs",
+              "RelativeDocumentMoniker": "..\\Task3\\Task3Prog.cs",
+              "ToolTip": "E:\\JobTests\\Task3\\Task3Prog.cs",
+              "RelativeToolTip": "..\\Task3\\Task3Prog.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAADwv18AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:59:45.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogMessage.cs",
+              "DocumentMoniker": "E:\\JobTests\\Task2\\LogMessage.cs",
+              "RelativeDocumentMoniker": "..\\Task2\\LogMessage.cs",
+              "ToolTip": "E:\\JobTests\\Task2\\LogMessage.cs",
+              "RelativeToolTip": "..\\Task2\\LogMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T16:57:49.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Server.cs",
+              "DocumentMoniker": "E:\\JobTests\\Task2\\Server.cs",
+              "RelativeDocumentMoniker": "..\\Task2\\Server.cs",
+              "ToolTip": "E:\\JobTests\\Task2\\Server.cs",
+              "RelativeToolTip": "..\\Task2\\Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:54:10.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\JobTests\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task2\\Program.cs",
+              "ToolTip": "E:\\JobTests\\Task2\\Program.cs",
+              "RelativeToolTip": "..\\Task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:53:48.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
