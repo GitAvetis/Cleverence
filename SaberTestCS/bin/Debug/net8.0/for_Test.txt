@@ -1,0 +1,6 @@
+5
+0|node1|4
+1|node2|2
+2|node3|0
+3|node4|1
+4|node5|3

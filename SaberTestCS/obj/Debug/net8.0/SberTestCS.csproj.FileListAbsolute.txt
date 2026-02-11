@@ -1,0 +1,14 @@
+E:\JobTests\SberTestCS\bin\Debug\net8.0\SberTestCS.exe
+E:\JobTests\SberTestCS\bin\Debug\net8.0\SberTestCS.deps.json
+E:\JobTests\SberTestCS\bin\Debug\net8.0\SberTestCS.runtimeconfig.json
+E:\JobTests\SberTestCS\bin\Debug\net8.0\SberTestCS.dll
+E:\JobTests\SberTestCS\bin\Debug\net8.0\SberTestCS.pdb
+E:\JobTests\SberTestCS\obj\Debug\net8.0\SberTestCS.GeneratedMSBuildEditorConfig.editorconfig
+E:\JobTests\SberTestCS\obj\Debug\net8.0\SberTestCS.AssemblyInfoInputs.cache
+E:\JobTests\SberTestCS\obj\Debug\net8.0\SberTestCS.AssemblyInfo.cs
+E:\JobTests\SberTestCS\obj\Debug\net8.0\SberTestCS.csproj.CoreCompileInputs.cache
+E:\JobTests\SberTestCS\obj\Debug\net8.0\SberTestCS.dll
+E:\JobTests\SberTestCS\obj\Debug\net8.0\refint\SberTestCS.dll
+E:\JobTests\SberTestCS\obj\Debug\net8.0\SberTestCS.pdb
+E:\JobTests\SberTestCS\obj\Debug\net8.0\SberTestCS.genruntimeconfig.cache
+E:\JobTests\SberTestCS\obj\Debug\net8.0\ref\SberTestCS.dll
