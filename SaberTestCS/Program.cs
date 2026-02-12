@@ -131,6 +131,5 @@
 
             Console.WriteLine("Success: Lists are identical.");
         }
-
     }
 }

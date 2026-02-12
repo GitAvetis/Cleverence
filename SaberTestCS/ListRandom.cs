@@ -16,28 +16,27 @@ namespace SaberTestCS
 
             Dictionary<ListNode, int> listDictionary = new();//на этом этапе раздал id для всех узлов,
                                                              //чтобы обращаться к ним черз этот словарь по ListNode.Random
-            ListNode node = Head;
+            ListNode currnetNode = Head;
 
             for (int i = 0; i < Count; i++)
             {
-                if (node != null)
+                if (currnetNode != null)
                 {
-                    listDictionary[node] = i;
-                    node = node.Next;
+                    listDictionary[currnetNode] = i;
+                    currnetNode = currnetNode.Next;
                 }
             }
 
-            node = Head;
+            currnetNode = Head;
 
             for (int i = 0; i < Count; i++)
             {
-                int randIndex = listDictionary[node.Random];
-                string listInfo = $"{i}|{node.Data}|{randIndex}\n";
+                int randIndex = listDictionary[currnetNode.Random];
+                string listInfo = $"{i}|{currnetNode.Data}|{randIndex}\n";
                 data = Encoding.UTF8.GetBytes(listInfo);
                 s.Write(data, 0, data.Length);
-                node = node.Next;
+                currnetNode = currnetNode.Next;
             }
-
         }
 
         public void Deserialize(Stream s)
@@ -71,7 +70,7 @@ namespace SaberTestCS
                 listDictionary[i] = new ListNode();
             }
 
-            ListNode node;
+            ListNode currnetNode;
 
             Head = listDictionary[0];
             Tail = listDictionary[Count - 1];
@@ -82,26 +81,26 @@ namespace SaberTestCS
             for (int i = 0; i < Count; i++)
             {
                 string[] info = allTokens[i + 1].Split('|');
-                node = listDictionary[i];
-                node.Data = info[nodeDataInd];
+                currnetNode = listDictionary[i];
+                currnetNode.Data = info[nodeDataInd];
 
                 if (int.TryParse(info[randInd], out int random))
                 {
-                    node.Random = listDictionary[random];
+                    currnetNode.Random = listDictionary[random];
                 }
                 else
                 {
-                    node.Random = null;
+                    currnetNode.Random = null;
                 }
 
-                if (i == 0) 
+                if (i == 0)
                 {
-                    node.Previous = null;
+                    currnetNode.Previous = null;
                 }
                 else
                 {
-                    node.Previous = listDictionary[i - 1];
-                    node.Previous.Next = node;
+                    currnetNode.Previous = listDictionary[i - 1];
+                    currnetNode.Previous.Next = currnetNode;
 
                 }
             }
