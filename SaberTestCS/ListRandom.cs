@@ -47,19 +47,24 @@ namespace SaberTestCS
             s.Read(stringFromBase, 0, stringFromBase.Length);
 
             if (stringFromBase == null)
+            {
                 throw new Exception("Поток не содержит данных");
+            }
 
             Dictionary<int, ListNode> listDictionary = new();
 
             string[] allTokens = Encoding.UTF8.GetString(stringFromBase).Split('\n');
 
             if (allTokens.Length < 2)
+            {
                 throw new Exception("Поток не содержит данных для десериализации");
+            }
 
             Count = Convert.ToInt32(allTokens[0]);
             if (Count == 0)
+            {
                 throw new Exception("Поток не содержит данных для десериализации");
-
+            }
 
             for (int i = 0; i < Count; i++)
             {
@@ -81,18 +86,24 @@ namespace SaberTestCS
                 node.Data = info[nodeDataInd];
 
                 if (int.TryParse(info[randInd], out int random))
+                {
                     node.Random = listDictionary[random];
+                }
                 else
+                {
                     node.Random = null;
+                }
 
-                if (i == 0)
+                if (i == 0) 
+                {
                     node.Previous = null;
+                }
                 else
+                {
                     node.Previous = listDictionary[i - 1];
+                    node.Previous.Next = node;
 
-                if (i < Count - 1)
-                    node.Next = listDictionary[i + 1];
-                else node.Next = null;
+                }
             }
         }
     }
